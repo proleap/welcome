@@ -1,1 +1,1 @@
-# Welcome to ProLeap
+# Welcome to ProLeap!
