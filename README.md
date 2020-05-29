@@ -1,2 +1,1 @@
-# proleap
-ProLeap Community
+# Welcome to ProLeap
